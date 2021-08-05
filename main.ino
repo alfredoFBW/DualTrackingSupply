@@ -4,7 +4,7 @@
 #define PUSH_BUTTON 2
 #define TRACK_RELAY 3     /* Relay */
 #define TRACK_MOS   4     /* MOSFET M1 */
-#define V_PLUS      A2
+#define V_PLUS      A0
 #define V_MINUS     A1
 #define RS_LCD      12
 #define RW_LCD      11
